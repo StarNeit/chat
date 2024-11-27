@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Elisha",
+      "email": "elisha@gmail.com"
+    },
+    {
+      "name": "John Doi",
+      "email": "john@gmail.com"
+    },
+    {
+      "name": "Jack pa",
+      "email": "jack@gmail.com"
+    },
+    {
+      "name": "Dash pa",
+      "email": "dash@gmail.com"
+    },
+    {
+      "name": "Bob pa",
+      "email": "bob@gmail.com",
+      "role": "admin"
+    }
+  ],
+  "channels": [
+    {
+      "name": "Channel A"
+    },
+    {
+      "name": "Channel B"
+    }
+  ]
+}
